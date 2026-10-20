@@ -38,6 +38,7 @@
   "name":"CLT_INFINITY_RUNNER",
   "resources":[
     {"id":{"name":"obj_passarTela","path":"objects/obj_passarTela/obj_passarTela.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"tela_1","path":"rooms/tela_1/tela_1.yy",},},
     {"id":{"name":"tela_2","path":"rooms/tela_2/tela_2.yy",},},
     {"id":{"name":"tela_3","path":"rooms/tela_3/tela_3.yy",},},
