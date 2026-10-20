@@ -1,0 +1,1 @@
+draw_text_transformed(x, y, "<- Pressione Space ->", 0.5, 0.5, 0)
