@@ -1,2 +1,2 @@
-global.vvel_lanches = 0.5;
+global.vvel_lanches = 1;
 global.pontos = 0;

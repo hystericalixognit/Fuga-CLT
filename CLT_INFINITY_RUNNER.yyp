@@ -37,6 +37,7 @@
   },
   "name":"CLT_INFINITY_RUNNER",
   "resources":[
+    {"id":{"name":"obj_caixa_som","path":"objects/obj_caixa_som/obj_caixa_som.yy",},},
     {"id":{"name":"obj_carteira","path":"objects/obj_carteira/obj_carteira.yy",},},
     {"id":{"name":"obj_coxinha","path":"objects/obj_coxinha/obj_coxinha.yy",},},
     {"id":{"name":"obj_passarTela","path":"objects/obj_passarTela/obj_passarTela.yy",},},
@@ -49,6 +50,8 @@
     {"id":{"name":"tela_4","path":"rooms/tela_4/tela_4.yy",},},
     {"id":{"name":"tela_jogo","path":"rooms/tela_jogo/tela_jogo.yy",},},
     {"id":{"name":"script_1","path":"scripts/script_1/script_1.yy",},},
+    {"id":{"name":"snd_musica_fundo","path":"sounds/snd_musica_fundo/snd_musica_fundo.yy",},},
+    {"id":{"name":"snd_pickUP","path":"sounds/snd_pickUP/snd_pickUP.yy",},},
     {"id":{"name":"but_passar","path":"sprites/but_passar/but_passar.yy",},},
     {"id":{"name":"spr_batata_frita","path":"sprites/spr_batata_frita/spr_batata_frita.yy",},},
     {"id":{"name":"spr_carteira","path":"sprites/spr_carteira/spr_carteira.yy",},},
@@ -64,11 +67,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"tela_jogo","path":"rooms/tela_jogo/tela_jogo.yy",},},
     {"roomId":{"name":"tela_1","path":"rooms/tela_1/tela_1.yy",},},
     {"roomId":{"name":"tela_2","path":"rooms/tela_2/tela_2.yy",},},
     {"roomId":{"name":"tela_3","path":"rooms/tela_3/tela_3.yy",},},
     {"roomId":{"name":"tela_4","path":"rooms/tela_4/tela_4.yy",},},
+    {"roomId":{"name":"tela_jogo","path":"rooms/tela_jogo/tela_jogo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
